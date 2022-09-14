@@ -1,0 +1,11 @@
+.row{
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+}
+.customfeild{
+    padding: 10%;
+    border: none;
+    background: none;
+    color: #fff;
+}
